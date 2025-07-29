@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author  : n13eho
-# @Time    : 2024.03.25
-
-"""
-Evaluate models on evaluation datasets in detail.
-"""
-
 import glob
 import json
 import os
